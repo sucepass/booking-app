@@ -25,7 +25,7 @@ The application consists of several screens, each serving a unique purpose:
 - **Expo**: Expo CLI (SDK 49,50) for developing and building React Native applications.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/fms-byte/booking-app.git`
+1. Clone the repository: `git clone https://github.com/sucepass/booking-app.git`
 2. Navigate to the project directory: `cd booking-app`
 3. Install the dependencies: `npm install`
 
@@ -40,4 +40,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or support, please contact me at [fsh697@gmail.com](https://github.com/fms-byte).
+For any inquiries or support, please contact me at [pantovicz53@gmail.com](https://github.com/sucepass/booking-app).
